@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a19157ee-d134-426d-9fb9-17ebfa988856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio-do-banco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafio-do-banco.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/IConta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaldoInsuficienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/SaldoInsuficienteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/idTipoClienteEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/IdTipoClienteEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +48,12 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="enums" />
+      <recent name="models" />
+      <recent name="services" />
+      <recent name="exceptions" />
     </key>
   </component>
   <component name="RunManager">
