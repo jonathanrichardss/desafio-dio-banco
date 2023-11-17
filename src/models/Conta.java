@@ -1,3 +1,8 @@
+package models;
+
+import exceptions.SaldoInsuficienteException;
+import services.IConta;
+
 public abstract class Conta implements IConta {
 
     private static final int AGENCIA_PADRAO = 1;

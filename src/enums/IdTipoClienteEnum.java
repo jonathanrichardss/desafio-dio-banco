@@ -1,19 +1,21 @@
-public enum idTipoClienteEnum {
+package enums;
+
+public enum IdTipoClienteEnum {
     PESSOA_FISICA("Pessoa Física", 2),
     PESSOA_JURIDICA("Pessoa Jurídica", 2);
 
     private String descricao;
     private int numero;
 
-    idTipoClienteEnum(String descricao) {
+    IdTipoClienteEnum(String descricao) {
         this.descricao = descricao;
     }
 
-    idTipoClienteEnum(int numero) {
+    IdTipoClienteEnum(int numero) {
         this.numero = numero;
     }
 
-    idTipoClienteEnum(String descricao, int numero) {
+    IdTipoClienteEnum(String descricao, int numero) {
         this.descricao = descricao;
         this.numero = numero;
     }
