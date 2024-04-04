@@ -1,5 +1,5 @@
 # Desafio DIO (Java + POO)
-## Domínio: Banco (Instituição FInanceira)
+## Domínio: Banco (Instituição Financeira)
 
 Nesse projeto conseguimos ter uma visão sobre  
 alguns conceitos como Abstração, Encapsulamento  
